@@ -3,7 +3,7 @@ import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Iterator;
 
-public class HashtableTest {
+public class HashtableExample {
     public static void main(String[] args) {
         Hashtable<String, String> ht = new Hashtable<>();
         ht.put("1", "One");

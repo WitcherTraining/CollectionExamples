@@ -1,6 +1,6 @@
 import java.util.BitSet;
 
-public class BitSetTest {
+public class BitSetExample {
     public static void main(String[] args) {
         BitSet bs1 = new BitSet();
         BitSet bs2 = new BitSet();

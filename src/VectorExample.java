@@ -1,7 +1,7 @@
 import java.util.Enumeration;
 import java.util.Vector;
 
-public class VectorTest {
+public class VectorExample {
     public static void main(String[] args) {
         Vector v = new Vector(3, 2);
         System.out.println("Initial size: " + v.size());

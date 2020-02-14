@@ -1,6 +1,6 @@
 import java.util.EnumSet;
 
-public class EnumSetTest {
+public class EnumSetExample {
     public static void main(String[] args) {
 
         EnumSet<Faculty> set1 = EnumSet.range(Faculty.MMF, Faculty.FMO);

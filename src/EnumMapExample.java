@@ -1,6 +1,6 @@
 import java.util.EnumMap;
 
-public class EnumMapTest {
+public class EnumMapExample {
     public static void main(String[] args) {
 
         EnumMap<Size, String> sizeMap = new EnumMap<>(Size.class);

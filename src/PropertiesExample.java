@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.Properties;
 import java.util.Set;
 
-public class PropertiesTest {
+public class PropertiesExample {
     public static void main(String[] args) {
         Properties capitals = new Properties();
         Set states;
